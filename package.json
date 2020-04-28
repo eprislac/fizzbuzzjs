@@ -1,0 +1,15 @@
+{
+  "name": "fizzbuzzjs",
+  "version": "1.0.0",
+  "description": "a fizzbuzzjs repl",
+  "main": "./src/index.js",
+  "author": "Eddie Prislac <edward.prislac@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "jest": "^25.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
