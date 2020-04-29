@@ -2,7 +2,7 @@
   "name": "fizzbuzzjs",
   "version": "1.0.0",
   "description": "a fizzbuzzjs repl",
-  "main": "./src/index.js",
+  "main": "./src/fizzbuzz.js",
   "author": "Eddie Prislac <edward.prislac@gmail.com>",
   "license": "MIT",
   "private": false,
