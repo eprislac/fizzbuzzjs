@@ -11,5 +11,14 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "jest": {
+    "verbose": true,
+    "testMatch": [
+      "**/*.steps.js"
+    ]
+  },
+  "devDependencies": {
+    "jest-cucumber": "^2.0.11"
   }
 }
